@@ -1,0 +1,15 @@
+D:\git-code\Lesson 9 Recursion\Task 66\bin\Debug\net6.0\Task 66.exe
+D:\git-code\Lesson 9 Recursion\Task 66\bin\Debug\net6.0\Task 66.deps.json
+D:\git-code\Lesson 9 Recursion\Task 66\bin\Debug\net6.0\Task 66.runtimeconfig.json
+D:\git-code\Lesson 9 Recursion\Task 66\bin\Debug\net6.0\Task 66.dll
+D:\git-code\Lesson 9 Recursion\Task 66\bin\Debug\net6.0\Task 66.pdb
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.csproj.AssemblyReference.cache
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.AssemblyInfoInputs.cache
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.AssemblyInfo.cs
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.csproj.CoreCompileInputs.cache
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.dll
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\refint\Task 66.dll
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.pdb
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\Task 66.genruntimeconfig.cache
+D:\git-code\Lesson 9 Recursion\Task 66\obj\Debug\net6.0\ref\Task 66.dll
